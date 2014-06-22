@@ -1,0 +1,57 @@
+name|to|from
+Afghanistan|http://aims.fao.org/aos/geopolitical.owl#Afghanistan|http://dbpedia.org/resource/Afghanistan
+Albania|http://aims.fao.org/aos/geopolitical.owl#Albania|http://dbpedia.org/resource/Albania
+Algeria|http://aims.fao.org/aos/geopolitical.owl#Algeria|http://dbpedia.org/resource/Algeria
+Andorra|http://aims.fao.org/aos/geopolitical.owl#Andorra|http://dbpedia.org/resource/Andorra
+Angola|http://aims.fao.org/aos/geopolitical.owl#Angola|http://dbpedia.org/resource/Angola
+Argentina|http://aims.fao.org/aos/geopolitical.owl#Argentina|http://dbpedia.org/resource/Argentina
+Armenia|http://aims.fao.org/aos/geopolitical.owl#Armenia|http://dbpedia.org/resource/Armenia
+Australia|http://aims.fao.org/aos/geopolitical.owl#Australia|http://dbpedia.org/resource/Australia
+Austria|http://aims.fao.org/aos/geopolitical.owl#Austria|http://dbpedia.org/resource/Austria
+Azerbaijan|http://aims.fao.org/aos/geopolitical.owl#Azerbaijan|http://dbpedia.org/resource/Azerbaijan
+Bahrain|http://aims.fao.org/aos/geopolitical.owl#Bahrain|http://dbpedia.org/resource/Bahrain
+Bangladesh|http://aims.fao.org/aos/geopolitical.owl#Bangladesh|http://dbpedia.org/resource/Bangladesh
+Barbados|http://aims.fao.org/aos/geopolitical.owl#Barbados|http://dbpedia.org/resource/Barbados
+Belarus|http://aims.fao.org/aos/geopolitical.owl#Belarus|http://dbpedia.org/resource/Belarus
+Belgium|http://aims.fao.org/aos/geopolitical.owl#Belgium|http://dbpedia.org/resource/Belgium
+Belize|http://aims.fao.org/aos/geopolitical.owl#Belize|http://dbpedia.org/resource/Belize
+Benin|http://aims.fao.org/aos/geopolitical.owl#Benin|http://dbpedia.org/resource/Benin
+Bhutan|http://aims.fao.org/aos/geopolitical.owl#Bhutan|http://dbpedia.org/resource/Bhutan
+Bolivia (Plurinational State of)|http://aims.fao.org/aos/geopolitical.owl#Bolivia|http://dbpedia.org/resource/Bolivia
+Bosnia and Herzegovina|http://aims.fao.org/aos/geopolitical.owl#Bosnia_and_Herzegovina|http://dbpedia.org/resource/Bosnia_and_Herzegovina
+Botswana|http://aims.fao.org/aos/geopolitical.owl#Botswana|http://dbpedia.org/resource/Botswana
+Brazil|http://aims.fao.org/aos/geopolitical.owl#Brazil|http://dbpedia.org/resource/Brazil
+Brunei Darussalam|http://aims.fao.org/aos/geopolitical.owl#Brunei_Darussalam|http://dbpedia.org/resource/Brunei
+Bulgaria|http://aims.fao.org/aos/geopolitical.owl#Bulgaria|http://dbpedia.org/resource/Bulgaria
+Burkina Faso|http://aims.fao.org/aos/geopolitical.owl#Burkina_Faso|http://dbpedia.org/resource/Burkina_Faso
+Burundi|http://aims.fao.org/aos/geopolitical.owl#Burundi|http://dbpedia.org/resource/Burundi
+Cambodia|http://aims.fao.org/aos/geopolitical.owl#Cambodia|http://dbpedia.org/resource/Cambodia
+Cameroon|http://aims.fao.org/aos/geopolitical.owl#Cameroon|http://dbpedia.org/resource/Cameroon
+Canada|http://aims.fao.org/aos/geopolitical.owl#Canada|http://dbpedia.org/resource/Canada
+Cape Verde|http://aims.fao.org/aos/geopolitical.owl#Cape_Verde|http://dbpedia.org/resource/Cape_Verde
+Chad|http://aims.fao.org/aos/geopolitical.owl#Chad|http://dbpedia.org/resource/Chad
+Chile|http://aims.fao.org/aos/geopolitical.owl#Chile|http://dbpedia.org/resource/Chile
+China|http://aims.fao.org/aos/geopolitical.owl#China|http://dbpedia.org/resource/China
+Colombia|http://aims.fao.org/aos/geopolitical.owl#Colombia|http://dbpedia.org/resource/Colombia
+Croatia|http://aims.fao.org/aos/geopolitical.owl#Croatia|http://dbpedia.org/resource/Croatia
+Cuba|http://aims.fao.org/aos/geopolitical.owl#Cuba|http://dbpedia.org/resource/Cuba
+Cyprus|http://aims.fao.org/aos/geopolitical.owl#Cyprus|http://dbpedia.org/resource/Cyprus
+Denmark|http://aims.fao.org/aos/geopolitical.owl#Denmark|http://dbpedia.org/resource/Denmark
+Dominican Republic (the)|http://aims.fao.org/aos/geopolitical.owl#Dominican_Republic_the|http://dbpedia.org/resource/Dominican_Republic
+France|http://aims.fao.org/aos/geopolitical.owl#France|http://dbpedia.org/resource/France
+Germany|http://aims.fao.org/aos/geopolitical.owl#Germany|http://dbpedia.org/resource/Germany
+Greece|http://aims.fao.org/aos/geopolitical.owl#Greece|http://dbpedia.org/resource/Greece
+Hungary|http://aims.fao.org/aos/geopolitical.owl#Hungary|http://dbpedia.org/resource/Hungary
+Iceland|http://aims.fao.org/aos/geopolitical.owl#Iceland|http://dbpedia.org/resource/Iceland
+Indonesia|http://aims.fao.org/aos/geopolitical.owl#Indonesia|http://dbpedia.org/resource/Indonesia
+Ireland|http://aims.fao.org/aos/geopolitical.owl#Ireland|http://dbpedia.org/resource/Ireland
+Israel|http://aims.fao.org/aos/geopolitical.owl#Israel|http://dbpedia.org/resource/Israel
+Italy|http://aims.fao.org/aos/geopolitical.owl#Italy|http://dbpedia.org/resource/Italy
+New Zealand|http://aims.fao.org/aos/geopolitical.owl#New_Zealand|http://dbpedia.org/resource/New_Zealand
+Viet Nam|http://aims.fao.org/aos/geopolitical.owl#Viet_Nam|http://dbpedia.org/resource/Vietnam
+Zimbabwe|http://aims.fao.org/aos/geopolitical.owl#Zimbabwe|http://dbpedia.org/resource/Zimbabwe
+the Central African Republic|http://aims.fao.org/aos/geopolitical.owl#Central_African_Republic_the|http://dbpedia.org/resource/Central_African_Republic
+the Comoros|http://aims.fao.org/aos/geopolitical.owl#Comoros_the|http://dbpedia.org/resource/Comoros
+the Cook Islands|http://aims.fao.org/aos/geopolitical.owl#Cook_Islands_the|http://dbpedia.org/resource/Cook_Islands
+the Czech Republic|http://aims.fao.org/aos/geopolitical.owl#Czech_Republic_the|http://dbpedia.org/resource/Czech_Republic
+the United States of America|http://aims.fao.org/aos/geopolitical.owl#United_States_of_America|http://dbpedia.org/resource/United_States

@@ -1,0 +1,23 @@
+SELECT ?slabel ?auri ?duri
+WHERE {
+    {
+    SELECT ?auri ?slabel
+    WHERE {
+        ?auri a vivo:Country .
+        ?auri rdfs:label ?alabel .
+        BIND(str(?alabel) AS ?slabel) .
+        FILTER(regex(str(?auri),"^http://aims"))
+        }
+    }
+
+    {
+    SELECT ?duri ?slabel
+    WHERE {
+        ?duri a vivo:Country .
+        ?duri rdfs:label ?dlabel .
+        BIND(str(?dlabel) AS ?slabel) .
+        FILTER(regex(str(?duri),"^http://dbpedia"))
+        }
+    }
+}
+ORDER BY ?slabel
