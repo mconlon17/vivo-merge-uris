@@ -23,131 +23,497 @@
     xmlns:vitro2  = "http://vitro.mannlib.cornell.edu/ns/vitro/public#"
     xmlns:core    = "http://vivoweb.org/ontology/core#"
     xmlns:vivo    = "http://vivoweb.org/ontology/core#">
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <ufVivo:dateHarvested>2013-11-19T17:04:40.807562</ufVivo:dateHarvested>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <vivo:researchAreaOf rdf:resource="http://vivo.ufl.edu/individual/n849063934"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <ufVivo:dateHarvested>2013-11-19T17:04:38.075480</ufVivo:dateHarvested>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <vivo:researchAreaOf rdf:resource="http://vivo.ufl.edu/individual/n12090"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <vitro:mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <vivo:researchAreaOf rdf:resource="http://vivo.ufl.edu/individual/n11391"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <vivo:authorInAuthorship rdf:resource="http://vivo.ufl.edu/individual/n9298037697"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <vivo:researchAreaOf rdf:resource="http://vivo.ufl.edu/individual/n4817"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <foaf:firstName>Wendy</foaf:firstName>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <vivo:researchAreaOf rdf:resource="http://vivo.ufl.edu/individual/n63912"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <ufVivo:harvestedBy>Python Pubs version 1.2.1</ufVivo:harvestedBy>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n194512">
+        <rdfs:label>Neuroscience</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <ufVivo:harvestedBy>Python Pubs version 1.1</ufVivo:harvestedBy>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n849063934">
+        <vivo:hasResearchArea rdf:resource="http://vivo.ufl.edu/individual/n194512"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <foaf:lastName>London</foaf:lastName>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n12090">
+        <vivo:hasResearchArea rdf:resource="http://vivo.ufl.edu/individual/n194512"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <rdfs:label>London, Wendy B.</rdfs:label>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11391">
+        <vivo:hasResearchArea rdf:resource="http://vivo.ufl.edu/individual/n194512"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2271881345">
-        <vivo:middleName>B</vivo:middleName>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4817">
+        <vivo:hasResearchArea rdf:resource="http://vivo.ufl.edu/individual/n194512"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3169074099">
-        <dcterms:creator rdf:resource="http://vivo.ufl.edu/individual/n2271881345"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n63912">
+        <vivo:hasResearchArea rdf:resource="http://vivo.ufl.edu/individual/n194512"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9298037697">
-        <vivo:linkedAuthor rdf:resource="http://vivo.ufl.edu/individual/n2271881345"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7092">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n54306"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7092">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7092">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7092">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <ufVivo:dateHarvested>2013-11-19T17:04:36.513879</ufVivo:dateHarvested>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7092">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <ufVivo:dateHarvested>2013-11-19T17:04:35.857282</ufVivo:dateHarvested>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54306">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n7092"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <vitro:mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n125142">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n129948"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <vivo:authorInAuthorship rdf:resource="http://vivo.ufl.edu/individual/n9612915695"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <foaf:firstName>Natsumi</foaf:firstName>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <ufVivo:harvestedBy>Python Pubs version 1.2.1</ufVivo:harvestedBy>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <ufVivo:harvestedBy>Python Pubs version 1.1</ufVivo:harvestedBy>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <foaf:lastName>Kanzaki</foaf:lastName>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7782873572">
-        <rdfs:label>Kanzaki, Natsumi</rdfs:label>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9612915695">
-        <vivo:linkedAuthor rdf:resource="http://vivo.ufl.edu/individual/n7782873572"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8719306408">
-        <dcterms:creator rdf:resource="http://vivo.ufl.edu/individual/n7782873572"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <ufVivo:ufid>33653946</ufVivo:ufid>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n125142">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n125142">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n125142">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <ufVivo:dateHarvested>2014-05-22T11:57:23.742883</ufVivo:dateHarvested>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n125142">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <vitro:mostSpecificType rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n129948">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n125142"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <vivo:authorInAuthorship rdf:resource="http://vivo.ufl.edu/individual/n2696798384"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n180851">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n430228"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <foaf:firstName>Natsumi</foaf:firstName>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n180851">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <ufVivo:harvestedBy>Python Pubs version 1.3</ufVivo:harvestedBy>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n180851">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <foaf:lastName>Kanzaki</foaf:lastName>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n180851">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6224522182">
-        <rdfs:label>Kanzaki, Natsumi</rdfs:label>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n180851">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2696798384">
-        <vivo:linkedAuthor rdf:resource="http://vivo.ufl.edu/individual/n6224522182"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n430228">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n180851"/>
     </rdf:Description>
-    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6088352401">
-        <dcterms:creator rdf:resource="http://vivo.ufl.edu/individual/n6224522182"/>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n304128">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n241289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n304128">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n304128">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n304128">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n304128">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n241289">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n304128"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n215255">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n241680"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n215255">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n215255">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n215255">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n215255">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n241680">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n215255"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n524218">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n409272"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n524218">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n524218">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n524218">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n524218">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n409272">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n524218"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n159218">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n257231"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n159218">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n159218">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n159218">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n159218">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n257231">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n159218"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143491">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n119639"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143491">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143491">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143491">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143491">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n119639">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n143491"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n468461">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n102029"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n468461">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n468461">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n468461">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n468461">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n102029">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n468461"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143029">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n346820"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143029">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143029">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143029">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143029">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n346820">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n143029"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n246999">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n240798"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n246999">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n246999">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n246999">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n246999">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n240798">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n246999"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5163">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n455980"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5163">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5163">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5163">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5163">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n455980">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n5163"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81752">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n210895"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81752">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81752">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81752">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81752">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n210895">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n81752"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84207">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n394312"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84207">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84207">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84207">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84207">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n394312">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n84207"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n443575">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n85632"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n443575">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n443575">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n443575">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n443575">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n85632">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n443575"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98466">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n97027"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98466">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98466">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98466">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n98466">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n97027">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n98466"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n261254">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n334374"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n261254">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n261254">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n261254">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n261254">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n334374">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n261254"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n483463">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n51326"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n483463">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n483463">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n483463">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n483463">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n51326">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n483463"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n101539">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n209135"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n101539">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n101539">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n101539">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n101539">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n209135">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n101539"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60552">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n514726"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60552">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60552">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60552">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60552">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n514726">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n60552"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14667">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n4065"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14667">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14667">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14667">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14667">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4065">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n14667"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56851">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n198471"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56851">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56851">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56851">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56851">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n198471">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n56851"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152386">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n114042"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152386">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152386">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152386">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152386">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n114042">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n152386"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n235206">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n799683"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n235206">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n235206">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n235206">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n235206">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n799683">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n235206"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60169">
+        <vivo:subjectAreaFor rdf:resource="http://vivo.ufl.edu/individual/n62357"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60169">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60169">
+        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60169">
+        <vitro:mostSpecificType rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60169">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62357">
+        <vivo:hasSubjectArea rdf:resource="http://vivo.ufl.edu/individual/n60169"/>
     </rdf:Description>
 
 </rdf:RDF>

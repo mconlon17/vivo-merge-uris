@@ -47,7 +47,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("filename", help="File containing from and to URIs",
-                    default="2014-08-26.txt")
+                    default="2014-09-20.txt")
 args = parser.parse_args()
 
 print datetime.now(), "Start"
